@@ -19,3 +19,11 @@ https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/other/Cute.jso
 https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/PokemonGo.json
 https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Semporia.json
 #其他
+* 注意事项：
+当远程图标有更新时，请手动清理本地图标缓存(打开
+“文件”应用，依次进入“我的 iPhone 或 icloud Drive
+Quantumult x - Images
+99
+，删除Images 文件夹内所有
+缓存文件)，并重启 Quantumult X，远程图标会重新下
+载并生效。
