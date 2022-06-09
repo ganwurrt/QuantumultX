@@ -10,18 +10,6 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
 所有规则数据都来自互联网，感谢开源规则项目作者的辛勤付出。
 
-![](https://visitor-badge.glitch.me/badge?page_id=ddgksf2013.Cuttlefish) 
-[![Stars](https://img.shields.io/github/stars/ddgksf2013/Cuttlefish)](https://github.com/ddgksf2013/Cuttlefish/stargazers)
-[![Fork](https://img.shields.io/github/forks/ddgksf2013/Cuttlefish)](https://github.com/ddgksf2013/Cuttlefish/network/members)
-[![Commit](https://img.shields.io/github/commit-activity/m/ddgksf2013/Cuttlefish?label=Commits)](https://github.com/ddgksf2013/Cuttlefish/commits/master)
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/ddgksf2021)
-[![Issues](https://img.shields.io/github/issues/ddgksf2013/Cuttlefish)](https://github.com/ddgksf2013/Cuttlefish/issues)
-[![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
-
-## 墨魚手記（[自用](https://github.com/ddgksf2013/Cuttlefish/blob/master/Rewrite/README.md "感谢赞助")）
-[![Cuttlefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true&count_private=true&theme=vue)](https://github.com/ddgksf2013/Cuttlefish)
-
-
 ## 1️⃣QuantumultX 小白2.0配置：
 * 配置更新时间：2022-05-18
 * 墨鱼自用QX配置 [***Cuttlefish.conf***](https://github.com/ddgksf2013/Cuttlefish/raw/master/Profile/QuantumultX.conf) 
