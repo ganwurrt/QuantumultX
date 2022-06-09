@@ -1,7 +1,8 @@
-QX教程：
-将以下内容添加到重写订阅https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/QX.snippet
-访问 https://sub-store.vercel.app/ （推荐添加到主屏幕。太敏感担心安全的自己去拉 GitHub 代码构建 web & 后端）
-点击单个订阅添加机场订阅链接，然后到底部选择节点操作 中选择 脚本操作 并选择 链接 添加 代码内容
+▎QX教程：
+❶ 将以下内容添加到重写订阅https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/QX.snippet
+
+❷ 访问 https://sub-store.vercel.app/ （推荐添加到主屏幕。太敏感担心安全的自己去拉 GitHub 代码构建 web & 后端）
+❸ 点击单个订阅添加机场订阅链接，然后到底部选择节点操作 中选择 脚本操作 并选择 链接 添加 代码内容
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/Sub-Store/ScriptAction.js后面和 pined 消息一样，自己看）
 
 1⃣️Sub-Store脚本操作：
