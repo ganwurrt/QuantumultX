@@ -24,11 +24,11 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/scripts/vmess-ws-obfs
 花里胡哨字体：https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/scripts/fancy-characters.js  
 
 有问题清除缓存：  
-[task_local]  
-# 运行脚本清楚缓存  
-* * * * * https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/scripts/revert.js, tag=清除缓存, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Lab.png, enabled=false   
-
-event-interaction https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/TaskLocal/NodeLinkCheck.js, tag=代理链路检测, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Stack.png, enabled=true  
+> [task_local]  
+> ##### 运行脚本清楚缓存
+> * * * * * https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/scripts/revert.js, tag=清除缓存, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Lab.png, enabled=false   
+> 
+> event-interaction https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/TaskLocal/NodeLinkCheck.js, tag=代理链路检测, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Stack.png, enabled=true  
 
 使用捷径批量同步节点到 Gist
 https://www.icloud.com/shortcuts/cfe17d8ef9ab44b2b7ab1bc7be30efa3
