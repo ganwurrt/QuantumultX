@@ -6,4 +6,4 @@ https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/QX.snippet
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/Sub-Store/ScriptAction.js
 （后面和 pined 消息一样，自己看）
 
-这是一个链接 [Sub-Store教程]([https://markdown.com.cn](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46))
+这是一个链接 [Sub-Store教程](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46))
