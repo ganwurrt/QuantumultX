@@ -2,13 +2,12 @@
 
 * https://github.com/Semporia/Hand-Painted-icon ***by Semporia***
 
-* by Qure （黑白）
-* https://github.com/Koolson/Qure/raw/master/Other/QureLight-All.json
-https://github.com/Koolson/Qure/raw/master/Other/QureColor-All.json
-https://raw.githubusercontent.com/Koolson/Qure/master/Other/QureColor.json
-#by Qure （彩色）
-https://raw.githubusercontent.com/Koolson/Qure/master/Other/Quremini.json
-#by Qure (mini)
+* https://github.com/Koolson/Qure/raw/master/Other/QureLight-All.json ***by Qure（黑白）***
+* https://github.com/Koolson/Qure/raw/master/Other/QureColor-All.json
+* https://raw.githubusercontent.com/Koolson/Qure/master/Other/QureColor.json ***by Qure （彩色）
+
+* https://raw.githubusercontent.com/Koolson/Qure/master/Other/Quremini.json ***by Qure (mini)
+
 https://github.com/Orz-3/mini/raw/master/mini.json
 #by Orz-3 (mini)
 https://github.com/Orz-3/mini/raw/master/Color%2B.json
