@@ -1,6 +1,6 @@
 # 图标仓库订阅
 
-***Semporia***
+* ***Semporia***
 * https://github.com/Semporia/Hand-Painted-icon
 ***Qure（黑白）***
 * https://github.com/Koolson/Qure/raw/master/Other/QureLight-All.json
