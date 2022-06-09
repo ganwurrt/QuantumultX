@@ -1,11 +1,8 @@
 # 图标仓库订阅
 
 * ***Semporia*** https://github.com/Semporia/Hand-Painted-icon
-***Qure（黑白）***
-* https://github.com/Koolson/Qure/raw/master/Other/QureLight-All.json
-***Qure（彩色）***
-* https://github.com/Koolson/Qure/raw/master/Other/QureColor-All.json
-* https://raw.githubusercontent.com/Koolson/Qure/master/Other/QureColor.json
+* ***Qure（黑白）*** https://github.com/Koolson/Qure/raw/master/Other/QureLight-All.json
+* ***Qure（彩色）*** https://github.com/Koolson/Qure/raw/master/Other/QureColor-All.json https://raw.githubusercontent.com/Koolson/Qure/master/Other/QureColor.json
 ***Qure (mini)***
 * https://raw.githubusercontent.com/Koolson/Qure/master/Other/Quremini.json
 ***Orz-3(mini)***
