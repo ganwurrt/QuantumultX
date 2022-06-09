@@ -12,7 +12,7 @@
 https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/PokemonGo.json
 https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Semporia.json
 
-* 注意事项：
+### 注意事项：
 当远程图标有更新时，请手动清理本地图标缓存(打开
 “文件”应用，依次进入“我的 iPhone 或 icloud Drive
 Quantumult x - Images
